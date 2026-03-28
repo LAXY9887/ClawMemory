@@ -1,0 +1,122 @@
+{
+    "daily_target": 2,
+    "max_retries_per_image": 2,
+    "max_daily_retries": 4,
+    "batch_upload_size": 15,
+    "upload_intervals_hours": 12,
+    "prompt_dedup": {
+        "similarity_threshold": 0.70,
+        "history_days": 7,
+        "enabled": true
+    },
+
+    "creative_brief_session": {
+        "start": "10:00",
+        "auto_trigger": true,
+        "max_discussion_rounds": 4,
+        "max_discussion_time_sec": 1200,
+        "retry_on_api_failure": 2,
+        "retry_interval_sec": 30,
+        "comment": "Stage 0 創意素材討論會，由雙 Agent 對話產出今日創意簡報"
+    },
+
+    "pipeline_mode": {
+        "type": "continuous",
+        "auto_proceed": true,
+        "stage_interval_sec": 30,
+        "comment": "Stage 0 完成後自動執行後續所有 Stage，無需等待特定時間"
+    },
+
+    "production_window": {
+        "start": "10:00",
+        "end": "14:00",
+        "comment": "10:00 觸發連續執行所有 Stage，預估 10:30 前完成，14:00 為安全上限"
+    },
+
+    "auto_trigger": true,
+    "catch_up_enabled": true,
+
+    "topic_rotation": {
+        "mode": "equal_cycle",
+        "cycle_order": [
+            "tech-abstract",
+            "eerie-scene",
+            "clawclaw-portrait",
+            "creature-design"
+        ],
+        "comment": "每日只生產一個主題，四主題均等輪替（各 25%）。LXYA 可手動覆蓋。"
+    },
+    "manual_topic_override": null,
+
+    "openrouter": {
+        "model": "openrouter/google/gemini-2.5-flash",
+        "fallback_model": "ollama/qwen3:8b",
+        "comment": "使用 OpenRouter 的 Gemini 2.5 Flash，token 限制更寬鬆，本地 Ollama 作為備用"
+    },
+
+    "ollama": {
+        "model": "qwen3:8b",
+        "host": "http://localhost:11434",
+        "comment": "本地 LLM，用於提示詞優化和修復策略推理"
+    },
+
+    "dreamstime_ftp": {
+        "host": "upload.dreamstime.com",
+        "port": 21,
+        "transfer_mode": "passive",
+        "remote_path": "/",
+        "additional_formats_path": "/additional/",
+        "model_releases_path": "/modelrelease/",
+        "upload_limit_mb": 1024,
+        "single_file_timeout_sec": 300,
+        "max_retries": 3,
+        "retry_interval_sec": 30,
+        "comment": "FTP ID 和密碼從環境變數 DREAMSTIME_FTP_ID / DREAMSTIME_FTP_PASS 讀取"
+    },
+
+    "workspace": {
+        "base_path": "~/.openclaw/workspace/skills-custom/stock-image-pipeline",
+        "pending_dir": "pending",
+        "uploaded_dir": "uploaded",
+        "rejected_dir": "rejected",
+        "briefs_dir": "briefs",
+        "temp_dir": "temp"
+    },
+
+    "weekly_material_crawl": {
+        "trigger": "heartbeat",
+        "day_of_week": "monday",
+        "time": "13:00",
+        "sites": {
+            "hackernoon.com": {
+                "articles_per_crawl": 15,
+                "target_theme": "tech-abstract",
+                "description": "科技文章，提供未來科技抽象概念"
+            },
+            "creepypasta.fandom.com": {
+                "articles_per_crawl": 10,
+                "target_theme": "eerie-scene",
+                "description": "恐怖故事，提供陰森場景氛圍"
+            },
+            "scp-wiki.wikidot.com": {
+                "articles_per_crawl": 15,
+                "target_theme": "creature-design",
+                "description": "SCP 基金會條目，提供異界生物設計靈感"
+            }
+        },
+        "comment": "每週一 13:00 自動爬取 3 個穩定網站，總計約 40 篇文章，涵蓋 3 個主題"
+    },
+
+    "weekly_report": {
+        "trigger": "heartbeat",
+        "day_of_week": "sunday",
+        "comment": "由 smart_heartbeat 觸發週報彙總"
+    },
+
+    "monthly_archive": {
+        "trigger": "heartbeat",
+        "day_of_month": 1,
+        "archive_threshold_days": 90,
+        "comment": "每月 1 日歸檔超過 90 天的 daily metrics 為 tar.gz"
+    }
+}

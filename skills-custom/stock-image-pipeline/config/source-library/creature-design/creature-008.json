@@ -1,0 +1,44 @@
+{
+  "id": "creature-008",
+  "source_url": "https://scp-wiki.wikidot.com/chat-guide",
+  "source_title": "Chat Guide",
+  "captured_date": "2026-03-28",
+  "theme": "creature-design",
+  "core_concept": "一個結合科技與神秘感的 IRC 網站聊天室的虛構生物設計",
+  "visual_elements": [
+    "螢幕與文字介面",
+    " IRC 通訊頻道",
+    "用戶等級標誌",
+    "加密連線圖示",
+    "聊天室主題顯示",
+    "用戶頭像與名稱",
+    "伺服器狀態欄位",
+    "訊息輸入欄位"
+  ],
+  "mood_keywords": [
+    "digital",
+    "mysterious",
+    "cyber",
+    "neon",
+    "tech",
+    "abstract",
+    "digital"
+  ],
+  "color_palette_hint": [
+    "neon blue",
+    "cyber green",
+    "digital red",
+    "dark purple",
+    "glowing white"
+  ],
+  "composition_hint": "將螢幕與文字介面置於前景，背景融入 IRC 通訊頻道與用戶等級標誌，營造科技與神秘感",
+  "potential_subjects": [
+    "A digital creature with glowing neon blue eyes in a cyber chat interface",
+    "A mysterious IRC channel interface with abstract digital patterns",
+    "A cyberpunk-style chat bot with glowing circuit patterns"
+  ],
+  "original_excerpt": "The passcode for being accepted to the wiki is located on the\nJoin the Site page\n. Chat Staff will not help you find it.\nWelcome - IRC Basics\nRegistration and Logging in\nRules and Guidelines\nPronouns\nStaff and Bots\nClick Here To Chat\nAbout SkipIRC\n<+Reverend> IRC is just multiplayer notepad.\nIf you're already a well-versed IRC user,\nthen point the client of your choice to\nirc.scpwiki.com\n(Port 6697 for SSL with SASL enabled or 6667 if you're using a client without SSL support) and join us in #si",
+  "quality_score": null,
+  "used_count": 0,
+  "last_used": null
+}

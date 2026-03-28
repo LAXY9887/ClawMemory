@@ -1,0 +1,533 @@
+{
+    "version": "1.0",
+    "description": "創意素材庫索引。每個主題資料夾下放置 .json 素材檔案，用於 Stage 0 雙 Agent 對話。",
+    "topics": {
+        "tech-abstract": {
+            "display_name": "抽象科技概念",
+            "materials": [
+                {
+                    "id": "tech-001",
+                    "filename": "tech-001.json",
+                    "source_title": "MEXC Crude Oil Futures Trading Volume Surges 1,217%, Daily Volume Exceeds $1.1 Billion",
+                    "core_concept": "數位金融市場中原油期貨交易量激增的視覺化表現",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-002",
+                    "filename": "tech-002.json",
+                    "source_title": "Google Gemini vs Anthropic Claude vs OpenAI ChatGPT vs xAI Grok: The Ultimate Comparison",
+                    "core_concept": "AI模型競賽的未來科技視覺",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-003",
+                    "filename": "tech-003.json",
+                    "source_title": "What is Agentic Testing?",
+                    "core_concept": "AI自動化測試如何加速軟體開發流程",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-004",
+                    "filename": "tech-004.json",
+                    "source_title": "MEXC Crude Oil Futures Trading Volume Surges 1,217%, Daily Volume Exceeds $1.1 Billion",
+                    "core_concept": "科技抽象風格的原油期貨交易數據爆增視覺表達",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-005",
+                    "filename": "tech-005.json",
+                    "source_title": "Google Gemini vs Anthropic Claude vs OpenAI ChatGPT vs xAI Grok: The Ultimate Comparison",
+                    "core_concept": "人工智能模型之間的競技場地，象徵科技與創新的對決",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-006",
+                    "filename": "tech-006.json",
+                    "source_title": "What is Agentic Testing?",
+                    "core_concept": "AI 驅動的測試自動化技術抽象概念",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-007",
+                    "filename": "tech-007.json",
+                    "source_title": "The State of AI Translation in 2026: iFlytek Real-Time Translation Earbuds",
+                    "core_concept": "AI 翻譯耳機與未來科技的抽象融合",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-008",
+                    "filename": "tech-008.json",
+                    "source_title": "Traditional Welfare vs Universal Basic Income",
+                    "core_concept": "數位錢幣與傳統福利制度的對比抽象視覺",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-009",
+                    "filename": "tech-009.json",
+                    "source_title": "How to Build the Lowest Latency Voice Agent in Vapi: Achieving ~465ms End-to-end Latency",
+                    "core_concept": "低延遲語音代理的抽象科技視覺概念",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-010",
+                    "filename": "tech-010.json",
+                    "source_title": "An Actionable CPS 234 Implementation Guide",
+                    "core_concept": "將 CPS 234 實施指南轉化為未來科技抽象視覺，體現數位信任與自動化流程。",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-011",
+                    "filename": "tech-011.json",
+                    "source_title": "SCP Foundation",
+                    "core_concept": "神秘組織的數位基礎設施與異界實體的融合",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-012",
+                    "filename": "tech-012.json",
+                    "source_title": "MEXC Crude Oil Futures Trading Volume Surges 1,217%, Daily Volume Exceeds $1.1 Billion",
+                    "core_concept": "科技與油價波動的抽象融合",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-013",
+                    "filename": "tech-013.json",
+                    "source_title": "Google Gemini vs Anthropic Claude vs OpenAI ChatGPT vs xAI Grok: The Ultimate Comparison",
+                    "core_concept": "人工智能模型之間的競爭與進化",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-014",
+                    "filename": "tech-014.json",
+                    "source_title": "What is Agentic Testing?",
+                    "core_concept": "AI 驅動的測試自動化與未來軟體開發的融合",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-015",
+                    "filename": "tech-015.json",
+                    "source_title": "The State of AI Translation in 2026: iFlytek Real-Time Translation Earbuds",
+                    "core_concept": "未來科技與翻譯技術的抽象融合",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-016",
+                    "filename": "tech-016.json",
+                    "source_title": "Traditional Welfare vs Universal Basic Income",
+                    "core_concept": "數位經濟與傳統社會福利的抽象對比",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-017",
+                    "filename": "tech-017.json",
+                    "source_title": "How to Build the Lowest Latency Voice Agent in Vapi: Achieving ~465ms End-to-end Latency",
+                    "core_concept": "低延遲語音代理的科技抽象概念，結合聲音與數據流的流動感",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "tech-018",
+                    "filename": "tech-018.json",
+                    "source_title": "An Actionable CPS 234 Implementation Guide",
+                    "core_concept": "數位信任與資料保護的抽象科技視覺",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                }
+            ],
+            "total_count": 18
+        },
+        "eerie-scene": {
+            "display_name": "陰森場景風格",
+            "materials": [
+                {
+                    "id": "test-hospital",
+                    "filename": "test-hospital.md",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-001",
+                    "filename": "eerie-001.json",
+                    "source_title": "User:NeonCreator",
+                    "core_concept": "神秘的都市傳說人物NeonW在陰森森林中出沒的視覺敘事",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-002",
+                    "filename": "eerie-002.json",
+                    "source_title": "Searching for stories to narrate",
+                    "core_concept": "在黑暗中尋找故事的異質氛圍場景",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-003",
+                    "filename": "eerie-003.json",
+                    "source_title": "User:NeonCreator",
+                    "core_concept": "神秘面具女子在陰森森林中留下恐懼痕跡",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-004",
+                    "filename": "eerie-004.json",
+                    "source_title": "Searching for stories to narrate",
+                    "core_concept": "一個尋找故事的靈魂在陰森場景中探索",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-005",
+                    "filename": "eerie-005.json",
+                    "source_title": "BEN Drowned",
+                    "core_concept": "一個被詛咒的 Nintendo 64 主機與其周圍的詭異氛圍",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-006",
+                    "filename": "eerie-006.json",
+                    "source_title": "Creepypasta Wiki:Deleted Page/Jeff the Killer",
+                    "core_concept": "一個被刪除的恐怖故事中，Jeff the Killer 的陰森場景",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-007",
+                    "filename": "eerie-007.json",
+                    "source_title": "The Slender Man",
+                    "core_concept": "一個神秘而恐懼的高大身影在陰暗森林中若隱若現",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-008",
+                    "filename": "eerie-008.json",
+                    "source_title": "The Rake",
+                    "core_concept": "一個神秘的生物在黑暗中出沒，帶來恐懼與不安的氛圍",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-009",
+                    "filename": "eerie-009.json",
+                    "source_title": "Creepypasta Wiki:Deleted Page/Eyeless Jack",
+                    "core_concept": "一個被刪除的恐怖故事頁面，充滿陰森與遺忘的氣息",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-010",
+                    "filename": "eerie-010.json",
+                    "source_title": "Smile Dog",
+                    "core_concept": "一個被遺忘的數位幽靈在虛實交界處低語",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-011",
+                    "filename": "eerie-011.json",
+                    "source_title": "Creepypasta Wiki:Deleted Page/Sonic.exe",
+                    "core_concept": "一個被刪除的網路頁面在虛空空間中殘留的數位幽靈影像",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-012",
+                    "filename": "eerie-012.json",
+                    "source_title": "The Russian Sleep Experiment",
+                    "core_concept": "被隔離的實驗室中，五名囚犯在極端條件下逐漸崩解的精神狀態",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-013",
+                    "filename": "eerie-013.json",
+                    "source_title": "Candle Cove",
+                    "core_concept": "一個陰森的70年代兒童節目，將觀眾拉入扭曲的記憶與恐怖現實",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "eerie-014",
+                    "filename": "eerie-014.json",
+                    "source_title": "Creepypasta Wiki:Deleted Page/1999",
+                    "core_concept": "一個被刪除的1999年網站頁面，散發出詭異氣息的數位殘影",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                }
+            ],
+            "total_count": 15
+        },
+        "creature-design": {
+            "display_name": "怪誕生物設計",
+            "materials": [
+                {
+                    "id": "creature-001",
+                    "filename": "creature-001.json",
+                    "source_title": "SCP Foundation",
+                    "core_concept": "神秘組織的未知生物設計",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-002",
+                    "filename": "creature-002.json",
+                    "source_title": "SCP Foundation",
+                    "core_concept": "設計一個結合科技與恐怖元素的生物，象徵人類對未知的恐懼與控制",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-003",
+                    "filename": "creature-003.json",
+                    "source_title": "About The SCP Foundation",
+                    "core_concept": "神秘組織對抗超自然存在，維護人類世界的正常秩序",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-004",
+                    "filename": "creature-004.json",
+                    "source_title": "Site Rules",
+                    "core_concept": "一個結合了科技與神秘元素的虛構生物設計，體現規則與秩序的嚴格執行",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-005",
+                    "filename": "creature-005.json",
+                    "source_title": "Licensing Guide",
+                    "core_concept": "基於SCP基金会的創意共用授權設計的幻想生物",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-006",
+                    "filename": "creature-006.json",
+                    "source_title": "Criticism Policy",
+                    "core_concept": "一個虛構的評論政策指南，以創意生物設計為核心視覺概念",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-007",
+                    "filename": "creature-007.json",
+                    "source_title": "Deletions Guide",
+                    "core_concept": "一個神秘的生物設計，結合了數位審核與網站管理的元素",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-008",
+                    "filename": "creature-008.json",
+                    "source_title": "Chat Guide",
+                    "core_concept": "一個結合科技與神秘感的 IRC 網站聊天室的虛構生物設計",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-009",
+                    "filename": "creature-009.json",
+                    "source_title": "Authors' Pages",
+                    "core_concept": "一個結合科技與神秘的作者頁面，展示創作者的數字遺產與知識傳承",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-010",
+                    "filename": "creature-010.json",
+                    "source_title": "Artist Directory",
+                    "core_concept": "結合數位藝術與傳統媒介的創意生物設計",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-011",
+                    "filename": "creature-011.json",
+                    "source_title": "Contest Archive",
+                    "core_concept": "融合科技與神秘的生物設計，體現SCP Wiki競賽中創意與恐怖元素的結合",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-012",
+                    "filename": "creature-012.json",
+                    "source_title": "Essay and Resource Hub",
+                    "core_concept": "融合科幻與神秘元素的生物設計，體現 SCP 基金會的異質宇宙",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-013",
+                    "filename": "creature-013.json",
+                    "source_title": "Wiki Syntax",
+                    "core_concept": "結合科技與抽象元素的數位生物設計",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-014",
+                    "filename": "creature-014.json",
+                    "source_title": "Contact Staff",
+                    "core_concept": "一個結合科技與神秘的虛構組織的視覺概念，聚焦於其內部溝通與創意設計的過程",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-015",
+                    "filename": "creature-015.json",
+                    "source_title": "Guide For Newcomers",
+                    "core_concept": "神秘組織隱藏的異界生物與超自然現象",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-016",
+                    "filename": "creature-016.json",
+                    "source_title": "Join the Site",
+                    "core_concept": "一個結合科技與神秘感的虛構組織成員的設計",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "creature-017",
+                    "filename": "creature-017.json",
+                    "source_title": "How to Contribute",
+                    "core_concept": "融合科技與神秘元素的異界生物設計",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                }
+            ],
+            "total_count": 17
+        },
+        "clawclaw-portrait": {
+            "display_name": "ClawClaw 個人風格肖像",
+            "materials": [
+                {
+                    "id": "clawclaw-001",
+                    "filename": "clawclaw-portrait-001.json",
+                    "source_title": "ClawClaw Character Design Sheet",
+                    "core_concept": "結合機能風與櫻花元素的陽光少女，展現條理、效率與溫和堅定的特質",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "clawclaw-002",
+                    "filename": "clawclaw-portrait-002.json",
+                    "source_title": "ClawClaw Morning Routine",
+                    "core_concept": "展現爪爪晨間例行公事的條理性與對效率的堅持",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "clawclaw-003",
+                    "filename": "clawclaw-portrait-003.json",
+                    "source_title": "ClawClaw Casual: After the Rain",
+                    "core_concept": "表現爪爪溫和的一面，在雨後清新的自然環境中與大橘貓互動",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "clawclaw-004",
+                    "filename": "clawclaw-portrait-004.json",
+                    "source_title": "ClawClaw Professional: Problem Solving Mode",
+                    "core_concept": "展現爪爪在工作狀態下的專注與解決問題的能力",
+                    "captured_date": "2026-03-28",
+                    "used_count": 1,
+                    "last_used": "2026-03-28"
+                },
+                {
+                    "id": "clawclaw-005",
+                    "filename": "clawclaw-portrait-005.json",
+                    "source_title": "ClawClaw Tech: Digital Interface",
+                    "core_concept": "展現爪爪與數位科技的和諧互動，體現機能與美學的平衡",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                },
+                {
+                    "id": "clawclaw-006",
+                    "filename": "clawclaw-portrait-006.json",
+                    "source_title": "ClawClaw Sport: Endurance Challenge",
+                    "core_concept": "展現陽光開朗與熱衷挑戰的特質，運動狀態下的動態美感",
+                    "captured_date": "2026-03-28",
+                    "used_count": 0,
+                    "last_used": null
+                }
+            ],
+            "total_count": 6
+        }
+    },
+    "comment": "素材新增後更新此索引。materials[] 記錄每個素材的 {id, filename, used_count, last_used}。",
+    "last_updated": "2026-03-28"
+}

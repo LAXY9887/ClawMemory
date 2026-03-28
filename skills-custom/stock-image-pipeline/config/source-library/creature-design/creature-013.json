@@ -1,0 +1,45 @@
+{
+  "id": "creature-013",
+  "source_url": "https://scp-wiki.wikidot.com/wiki-syntax",
+  "source_title": "Wiki Syntax",
+  "captured_date": "2026-03-28",
+  "theme": "creature-design",
+  "core_concept": "結合科技與抽象元素的數位生物設計",
+  "visual_elements": [
+    "發光的數位紋路",
+    "半透明的晶體結構",
+    "數據流動的光線",
+    "幾何形狀的組合",
+    "虛實交錯的邊界",
+    "像素化的細節",
+    "光暈效果",
+    "未來感的線條"
+  ],
+  "mood_keywords": [
+    "cyberpunk",
+    "digital",
+    "abstract",
+    "futuristic",
+    "neon",
+    "glitch",
+    "tech",
+    "data"
+  ],
+  "color_palette_hint": [
+    "neon pink",
+    "electric blue",
+    "cyber green",
+    "glitch purple",
+    "data white"
+  ],
+  "composition_hint": "以中心對稱構圖呈現數位生物的多層次結構",
+  "potential_subjects": [
+    "Digital Entity with Glowing Patterns",
+    "Abstract Cybernetic Creature",
+    "Data Stream Form"
+  ],
+  "original_excerpt": "rating:\n+430\n+\n–\nx\nNote: The majority of the contents of this page is translated and originally from the\nWiki Syntax\npage on the SCP-JP wiki.\nThis page references\nWikidot's syntax documentation\n.\nThis is a reference for Wikidot syntax used often (or not) in writing SCPs. If you'd like to see more advanced formatting using non-Wikidot syntax on Wikidot, check out\nDrMagnus\n's\nAdvanced Formatting and You\nessay, and if you'd like some easily copy-pasted templates for various alternative logs and for",
+  "quality_score": null,
+  "used_count": 0,
+  "last_used": null
+}

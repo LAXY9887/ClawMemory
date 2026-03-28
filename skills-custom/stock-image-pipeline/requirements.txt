@@ -1,0 +1,14 @@
+# Stock Photo Production Pipeline — Python 依賴
+# 安裝: pip install -r requirements.txt
+
+# --- 核心 (pipeline 必要) ---
+requests>=2.28.0          # OpenRouter API / ComfyUI API / Ollama API
+Pillow>=9.0.0             # 圖片處理、EXIF 嵌入、defect_detector Layer1
+
+# --- 選用 (功能增強) ---
+piexif>=1.1.3             # JPEG EXIF 嵌入（metadata_embedder.py，Pillow fallback 可用）
+# beautifulsoup4 已移至獨立 Skill: material-curator/requirements.txt
+
+# --- 標準庫 (無需安裝) ---
+# ftplib, json, pathlib, logging, datetime, difflib, urllib,
+# argparse, tarfile, hashlib, re, copy, random, base64, uuid, io

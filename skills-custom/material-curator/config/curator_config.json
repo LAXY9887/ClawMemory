@@ -1,0 +1,17 @@
+﻿{
+  "output_dir": "../../stock-image-pipeline/config/source-library",
+  "ollama": {
+    "model": "qwen3:8b",
+    "host": "http://localhost:11434"
+  },
+  "scraping": {
+    "polite_delay_seconds": 2,
+    "max_articles_per_run": 20,
+    "user_agent": "MaterialCurator/1.0 (research-bot)"
+  },
+  "dedup": {
+    "similarity_threshold": 0.70
+  }
+}
+
+

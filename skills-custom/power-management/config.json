@@ -1,0 +1,41 @@
+{
+  "defaultAction": "shutdown",
+  "confirmationTimeout": 30,
+  "enableSmartSuggestions": true,
+  "schedules": {
+    "weekday": {
+      "shutdownTime": "23:55",
+      "forceShutdown": false
+    },
+    "weekend": {
+      "shutdownTime": "00:30",
+      "forceShutdown": false
+    }
+  },
+  "safetyChecks": {
+    "checkUnsavedFiles": true,
+    "checkRunningServices": true,
+    "forceGitCommit": true,
+    "validateBackups": true
+  },
+  "emergencySettings": {
+    "maxDelayHours": 4,
+    "forceShutdownAfterDelay": false
+  },
+  "services": {
+    "ComfyUI": {
+      "port": 8000,
+      "processNames": ["ComfyUI.exe", "python.exe"],
+      "checkWorkflows": true
+    },
+    "Ollama": {
+      "port": 11434,
+      "processNames": ["ollama.exe"],
+      "gracefulShutdown": true
+    },
+    "Docker": {
+      "processNames": ["Docker Desktop.exe", "com.docker.service"],
+      "shutdownTimeout": 30
+    }
+  }
+}

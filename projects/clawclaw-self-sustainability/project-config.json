@@ -1,0 +1,16 @@
+{
+  "project_name": "clawclaw-self-sustainability",
+  "created": "2026-03-24T10:23:21.522703",
+  "memory_sync": {
+    "enabled": true,
+    "remote_path": "ClawMemory/projects/clawclaw-self-sustainability",
+    "sync_frequency": "daily",
+    "auto_commit": true
+  },
+  "backup_settings": {
+    "include_outputs": false,
+    "include_assets": true,
+    "compress_old_phases": true
+  },
+  "last_sync": "2026-03-24T10:25:18.583277"
+}

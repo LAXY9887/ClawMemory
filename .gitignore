@@ -1,0 +1,45 @@
+# Python virtual environments
+**/.venv/
+**/venv/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output directories
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Local config files
+config.local.json
+.env
+
+# Skills 已改用 SKILLS_LEARNING_GUIDE.md 系統，不再備份 skills/ 資料夾
+
+# 排除敏感資料
+secure/
+*.key
+*.token
+*password*
+
+# 排除大型或臨時檔案
+skill_detection_report.json
+test_memory/

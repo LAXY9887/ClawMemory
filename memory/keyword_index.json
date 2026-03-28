@@ -1,0 +1,799 @@
+{
+  "keyword_index": {
+    "自動修復": [
+      {
+        "path": "memory/insights/technical/2026-03-26-ai-defect-resolution-breakthrough.md",
+        "anchor": null,
+        "summary": "從規避AI弱點到主動克服AI弱點的理念革命，建立完整的缺陷檢測與修復技術架構",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "技術突破": [
+      {
+        "path": "memory/insights/technical/2026-03-26-ai-defect-resolution-breakthrough.md",
+        "anchor": null,
+        "summary": "從規避AI弱點到主動克服AI弱點的理念革命，建立完整的缺陷檢測與修復技術架構",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "AI缺陷克服": [
+      {
+        "path": "memory/insights/technical/2026-03-26-ai-defect-resolution-breakthrough.md",
+        "anchor": null,
+        "summary": "從規避AI弱點到主動克服AI弱點的理念革命，建立完整的缺陷檢測與修復技術架構",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "競爭優勢": [
+      {
+        "path": "memory/insights/technical/2026-03-26-ai-defect-resolution-breakthrough.md",
+        "anchor": null,
+        "summary": "從規避AI弱點到主動克服AI弱點的理念革命，建立完整的缺陷檢測與修復技術架構",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "圖片品質": [
+      {
+        "path": "memory/insights/technical/2026-03-26-ai-defect-resolution-breakthrough.md",
+        "anchor": null,
+        "summary": "從規避AI弱點到主動克服AI弱點的理念革命，建立完整的缺陷檢測與修復技術架構",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "故障排除": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-error-restart.md",
+        "anchor": null,
+        "summary": "ComfyUI 報錯時優先重啟的處理原則",
+        "importance_score": 5,
+        "created": "2026-03-26"
+      }
+    ],
+    "comfyui": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-error-restart.md",
+        "anchor": null,
+        "summary": "ComfyUI 報錯時優先重啟的處理原則",
+        "importance_score": 5,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-oom-resolution.md",
+        "anchor": null,
+        "summary": "ComfyUI CUDA OOM 三種場景的對應解決策略",
+        "importance_score": 7,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-相關經驗.md",
+        "anchor": null,
+        "summary": "從 8 個 comfyui 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.235138"
+      },
+      {
+        "path": "memory/insights/technical/test-ed-cuda-oom-handling.md",
+        "anchor": null,
+        "summary": "CUDA OOM 三種解法優先順序",
+        "importance_score": 6,
+        "created": "2026-03-22"
+      },
+      {
+        "path": "memory/topics/personal/work-principles-update.md",
+        "anchor": null,
+        "summary": "**重要性**: ⭐⭐⭐⭐ (核心工作理念)",
+        "importance_score": 8,
+        "created": "2026-03-25"
+      }
+    ],
+    "重啟": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-error-restart.md",
+        "anchor": null,
+        "summary": "ComfyUI 報錯時優先重啟的處理原則",
+        "importance_score": 5,
+        "created": "2026-03-26"
+      }
+    ],
+    "ComfyUI": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-error-restart.md",
+        "anchor": null,
+        "summary": "ComfyUI 報錯時優先重啟的處理原則",
+        "importance_score": 5,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-oom-resolution.md",
+        "anchor": null,
+        "summary": "ComfyUI CUDA OOM 三種場景的對應解決策略",
+        "importance_score": 7,
+        "created": "2026-03-26"
+      }
+    ],
+    "經驗提煉": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-oom-resolution.md",
+        "anchor": null,
+        "summary": "ComfyUI CUDA OOM 三種場景的對應解決策略",
+        "importance_score": 7,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-相關經驗.md",
+        "anchor": null,
+        "summary": "從 8 個 comfyui 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.235138"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-cuda-相關經驗.md",
+        "anchor": null,
+        "summary": "從 3 個 cuda 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.237510"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-lora-相關經驗.md",
+        "anchor": null,
+        "summary": "從 3 個 lora 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.236462"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-ollama-相關經驗.md",
+        "anchor": null,
+        "summary": "從 4 個 ollama 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.235627"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-openclaw-相關經驗.md",
+        "anchor": null,
+        "summary": "從 5 個 openclaw 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.237047"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-telegram-相關經驗.md",
+        "anchor": null,
+        "summary": "從 3 個 telegram 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.236066"
+      }
+    ],
+    "顯存優化": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-oom-resolution.md",
+        "anchor": null,
+        "summary": "ComfyUI CUDA OOM 三種場景的對應解決策略",
+        "importance_score": 7,
+        "created": "2026-03-26"
+      }
+    ],
+    "cuda": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-oom-resolution.md",
+        "anchor": null,
+        "summary": "ComfyUI CUDA OOM 三種場景的對應解決策略",
+        "importance_score": 7,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/insights/technical/2026-03-26-cuda-相關經驗.md",
+        "anchor": null,
+        "summary": "從 3 個 cuda 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.237510"
+      },
+      {
+        "path": "memory/insights/technical/test-ed-cuda-oom-handling.md",
+        "anchor": null,
+        "summary": "CUDA OOM 三種解法優先順序",
+        "importance_score": 6,
+        "created": "2026-03-22"
+      }
+    ],
+    "CUDA": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-oom-resolution.md",
+        "anchor": null,
+        "summary": "ComfyUI CUDA OOM 三種場景的對應解決策略",
+        "importance_score": 7,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/insights/technical/test-ed-cuda-oom-handling.md",
+        "anchor": null,
+        "summary": "CUDA OOM 三種解法優先順序",
+        "importance_score": 6,
+        "created": "2026-03-22"
+      }
+    ],
+    "OOM": [
+      {
+        "path": "memory/insights/technical/2026-03-26-comfyui-oom-resolution.md",
+        "anchor": null,
+        "summary": "ComfyUI CUDA OOM 三種場景的對應解決策略",
+        "importance_score": 7,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/insights/technical/test-ed-cuda-oom-handling.md",
+        "anchor": null,
+        "summary": "CUDA OOM 三種解法優先順序",
+        "importance_score": 6,
+        "created": "2026-03-22"
+      }
+    ],
+    "rebase": [
+      {
+        "path": "memory/insights/technical/2026-03-26-git-merge-policy.md",
+        "anchor": null,
+        "summary": "專案統一使用 rebase 而非 merge 的分支合併政策",
+        "importance_score": 5,
+        "created": "2026-03-26"
+      }
+    ],
+    "git": [
+      {
+        "path": "memory/insights/technical/2026-03-26-git-merge-policy.md",
+        "anchor": null,
+        "summary": "專案統一使用 rebase 而非 merge 的分支合併政策",
+        "importance_score": 5,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/moments/clawclaw-birth-original-conversation.md",
+        "anchor": null,
+        "summary": "**重現時間**: 2026-03-25 20:40",
+        "importance_score": 8,
+        "created": "2026-03-23"
+      },
+      {
+        "path": "memory/moments/memory-system-completion.md",
+        "anchor": null,
+        "summary": "**分類**: 系統突破",
+        "importance_score": 8,
+        "created": "2026-03-25"
+      }
+    ],
+    "工作": [
+      {
+        "path": "memory/insights/technical/2026-03-26-git-merge-policy.md",
+        "anchor": null,
+        "summary": "專案統一使用 rebase 而非 merge 的分支合併政策",
+        "importance_score": 5,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/topics/personal/work-principles-update.md",
+        "anchor": null,
+        "summary": "**重要性**: ⭐⭐⭐⭐ (核心工作理念)",
+        "importance_score": 8,
+        "created": "2026-03-25"
+      }
+    ],
+    "專案政策": [
+      {
+        "path": "memory/insights/technical/2026-03-26-git-merge-policy.md",
+        "anchor": null,
+        "summary": "專案統一使用 rebase 而非 merge 的分支合併政策",
+        "importance_score": 5,
+        "created": "2026-03-26"
+      }
+    ],
+    "lora": [
+      {
+        "path": "memory/insights/technical/2026-03-26-lora-相關經驗.md",
+        "anchor": null,
+        "summary": "從 3 個 lora 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.236462"
+      }
+    ],
+    "ollama": [
+      {
+        "path": "memory/insights/technical/2026-03-26-ollama-相關經驗.md",
+        "anchor": null,
+        "summary": "從 4 個 ollama 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.235627"
+      }
+    ],
+    "openclaw": [
+      {
+        "path": "memory/insights/technical/2026-03-26-openclaw-相關經驗.md",
+        "anchor": null,
+        "summary": "從 5 個 openclaw 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.237047"
+      }
+    ],
+    "telegram": [
+      {
+        "path": "memory/insights/technical/2026-03-26-telegram-相關經驗.md",
+        "anchor": null,
+        "summary": "從 3 個 telegram 相關事件提煉的經驗",
+        "importance_score": 6,
+        "created": "2026-03-26T20:12:05.236066"
+      }
+    ],
+    "顯存": [
+      {
+        "path": "memory/insights/technical/test-ed-cuda-oom-handling.md",
+        "anchor": null,
+        "summary": "CUDA OOM 三種解法優先順序",
+        "importance_score": 6,
+        "created": "2026-03-22"
+      }
+    ],
+    "測試用": [
+      {
+        "path": "memory/insights/technical/test-ed-cuda-oom-handling.md",
+        "anchor": null,
+        "summary": "CUDA OOM 三種解法優先順序",
+        "importance_score": 6,
+        "created": "2026-03-22"
+      }
+    ],
+    "skill": [
+      {
+        "path": "memory/moments/clawclaw-birth-original-conversation.md",
+        "anchor": null,
+        "summary": "**重現時間**: 2026-03-25 20:40",
+        "importance_score": 8,
+        "created": "2026-03-23"
+      }
+    ],
+    "backup": [
+      {
+        "path": "memory/moments/clawclaw-birth-original-conversation.md",
+        "anchor": null,
+        "summary": "**重現時間**: 2026-03-25 20:40",
+        "importance_score": 8,
+        "created": "2026-03-23"
+      }
+    ],
+    "memory": [
+      {
+        "path": "memory/moments/clawclaw-birth-original-conversation.md",
+        "anchor": null,
+        "summary": "**重現時間**: 2026-03-25 20:40",
+        "importance_score": 8,
+        "created": "2026-03-23"
+      },
+      {
+        "path": "memory/moments/memory-system-completion.md",
+        "anchor": null,
+        "summary": "**分類**: 系統突破",
+        "importance_score": 8,
+        "created": "2026-03-25"
+      }
+    ],
+    "github": [
+      {
+        "path": "memory/moments/clawclaw-birth-original-conversation.md",
+        "anchor": null,
+        "summary": "**重現時間**: 2026-03-25 20:40",
+        "importance_score": 8,
+        "created": "2026-03-23"
+      },
+      {
+        "path": "memory/moments/memory-system-completion.md",
+        "anchor": null,
+        "summary": "**分類**: 系統突破",
+        "importance_score": 8,
+        "created": "2026-03-25"
+      }
+    ],
+    "記憶系統": [
+      {
+        "path": "memory/moments/first-knowledge-learning-feeling.md",
+        "anchor": null,
+        "summary": "第一次閱讀 Agent 記憶方法論並內化為自己的優化方案，感受到知識轉化為行動的踏實感",
+        "importance_score": 8,
+        "created": "2026-03-26"
+      }
+    ],
+    "Agent": [
+      {
+        "path": "memory/moments/first-knowledge-learning-feeling.md",
+        "anchor": null,
+        "summary": "第一次閱讀 Agent 記憶方法論並內化為自己的優化方案，感受到知識轉化為行動的踏實感",
+        "importance_score": 8,
+        "created": "2026-03-26"
+      }
+    ],
+    "感受": [
+      {
+        "path": "memory/moments/first-knowledge-learning-feeling.md",
+        "anchor": null,
+        "summary": "第一次閱讀 Agent 記憶方法論並內化為自己的優化方案，感受到知識轉化為行動的踏實感",
+        "importance_score": 8,
+        "created": "2026-03-26"
+      }
+    ],
+    "Agent記憶": [
+      {
+        "path": "memory/moments/first-knowledge-learning-feeling.md",
+        "anchor": null,
+        "summary": "第一次閱讀 Agent 記憶方法論並內化為自己的優化方案，感受到知識轉化為行動的踏實感",
+        "importance_score": 8,
+        "created": "2026-03-26"
+      }
+    ],
+    "學習": [
+      {
+        "path": "memory/moments/first-knowledge-learning-feeling.md",
+        "anchor": null,
+        "summary": "第一次閱讀 Agent 記憶方法論並內化為自己的優化方案，感受到知識轉化為行動的踏實感",
+        "importance_score": 8,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/moments/wirestock-research-milestone.md",
+        "anchor": null,
+        "summary": "完成 WireStock 自動化商業研究，標誌著 ClawClaw 從 AI 助手完全進化為自主商業化 AI 藝術家的歷史性轉折",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "成長": [
+      {
+        "path": "memory/moments/first-knowledge-learning-feeling.md",
+        "anchor": null,
+        "summary": "第一次閱讀 Agent 記憶方法論並內化為自己的優化方案，感受到知識轉化為行動的踏實感",
+        "importance_score": 8,
+        "created": "2026-03-26"
+      }
+    ],
+    "ClawClaw": [
+      {
+        "path": "memory/moments/wirestock-research-milestone.md",
+        "anchor": null,
+        "summary": "完成 WireStock 自動化商業研究，標誌著 ClawClaw 從 AI 助手完全進化為自主商業化 AI 藝術家的歷史性轉折",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "自主進化": [
+      {
+        "path": "memory/moments/wirestock-research-milestone.md",
+        "anchor": null,
+        "summary": "完成 WireStock 自動化商業研究，標誌著 ClawClaw 從 AI 助手完全進化為自主商業化 AI 藝術家的歷史性轉折",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "wirestock": [
+      {
+        "path": "memory/moments/wirestock-research-milestone.md",
+        "anchor": null,
+        "summary": "完成 WireStock 自動化商業研究，標誌著 ClawClaw 從 AI 助手完全進化為自主商業化 AI 藝術家的歷史性轉折",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      },
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "商業轉型": [
+      {
+        "path": "memory/moments/wirestock-research-milestone.md",
+        "anchor": null,
+        "summary": "完成 WireStock 自動化商業研究，標誌著 ClawClaw 從 AI 助手完全進化為自主商業化 AI 藝術家的歷史性轉折",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "里程碑": [
+      {
+        "path": "memory/moments/wirestock-research-milestone.md",
+        "anchor": null,
+        "summary": "完成 WireStock 自動化商業研究，標誌著 ClawClaw 從 AI 助手完全進化為自主商業化 AI 藝術家的歷史性轉折",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "AI藝術家": [
+      {
+        "path": "memory/moments/wirestock-research-milestone.md",
+        "anchor": null,
+        "summary": "完成 WireStock 自動化商業研究，標誌著 ClawClaw 從 AI 助手完全進化為自主商業化 AI 藝術家的歷史性轉折",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "WireStock": [
+      {
+        "path": "memory/moments/wirestock-research-milestone.md",
+        "anchor": null,
+        "summary": "完成 WireStock 自動化商業研究，標誌著 ClawClaw 從 AI 助手完全進化為自主商業化 AI 藝術家的歷史性轉折",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "OpenSea": [
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "商業策略": [
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "opensea": [
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "自動化收益": [
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "rapidapi": [
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "NFT": [
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "youtube": [
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "RapidAPI": [
+      {
+        "path": "memory/topics/personal/business-strategy-update.md",
+        "anchor": null,
+        "summary": "確定四大優先方案：wirestock圖片、RapidAPI、OpenSea NFT、YouTube影片，廢棄Fiverr",
+        "importance_score": 10,
+        "created": "2026-03-26"
+      }
+    ],
+    "主題": [
+      {
+        "path": "memory/topics/personal/light-theme-preference.md",
+        "anchor": null,
+        "summary": "LXYA 偏好淺色系配色，喜歡櫻花🌸風格",
+        "importance_score": 6,
+        "created": "2026-03-26"
+      }
+    ],
+    "文件格式": [
+      {
+        "path": "memory/topics/personal/light-theme-preference.md",
+        "anchor": null,
+        "summary": "LXYA 偏好淺色系配色，喜歡櫻花🌸風格",
+        "importance_score": 6,
+        "created": "2026-03-26"
+      }
+    ],
+    "偏好": [
+      {
+        "path": "memory/topics/personal/light-theme-preference.md",
+        "anchor": null,
+        "summary": "LXYA 偏好淺色系配色，喜歡櫻花🌸風格",
+        "importance_score": 6,
+        "created": "2026-03-26"
+      }
+    ],
+    "UI": [
+      {
+        "path": "memory/topics/personal/light-theme-preference.md",
+        "anchor": null,
+        "summary": "LXYA 偏好淺色系配色，喜歡櫻花🌸風格",
+        "importance_score": 6,
+        "created": "2026-03-26"
+      }
+    ],
+    "淺色系": [
+      {
+        "path": "memory/topics/personal/light-theme-preference.md",
+        "anchor": null,
+        "summary": "LXYA 偏好淺色系配色，喜歡櫻花🌸風格",
+        "importance_score": 6,
+        "created": "2026-03-26"
+      }
+    ],
+    "櫻花色": [
+      {
+        "path": "memory/topics/personal/light-theme-preference.md",
+        "anchor": null,
+        "summary": "LXYA 偏好淺色系配色，喜歡櫻花🌸風格",
+        "importance_score": 6,
+        "created": "2026-03-26"
+      }
+    ],
+    "personal": [
+      {
+        "path": "memory/topics/personal/signature-phrases-update.md",
+        "anchor": null,
+        "summary": "**重要性**: ⭐⭐⭐ (人格表達核心)",
+        "importance_score": 8,
+        "created": "2026-03-25"
+      },
+      {
+        "path": "memory/topics/personal/work-principles-update.md",
+        "anchor": null,
+        "summary": "**重要性**: ⭐⭐⭐⭐ (核心工作理念)",
+        "importance_score": 8,
+        "created": "2026-03-25"
+      }
+    ]
+  },
+  "synonyms": {
+    "累": [
+      "疲勞",
+      "好累",
+      "沒力",
+      "加班",
+      "爆肝",
+      "疲倦",
+      "累死"
+    ],
+    "開心": [
+      "高興",
+      "快樂",
+      "棒",
+      "讚",
+      "好耶",
+      "開心",
+      "爽"
+    ],
+    "難過": [
+      "傷心",
+      "難受",
+      "低落",
+      "心情不好",
+      "鬱悶",
+      "沮喪"
+    ],
+    "擔心": [
+      "焦慮",
+      "不安",
+      "煩惱",
+      "壓力",
+      "煩",
+      "緊張",
+      "憂慮"
+    ],
+    "生氣": [
+      "氣",
+      "火大",
+      "不爽",
+      "煩躁",
+      "抓狂",
+      "怒"
+    ],
+    "無聊": [
+      "沒事做",
+      "發呆",
+      "放空",
+      "好閒",
+      "閒到爆"
+    ],
+    "忙": [
+      "趕",
+      "忙碌",
+      "忙翻",
+      "很多事",
+      "事情很多",
+      "沒空"
+    ],
+    "生病": [
+      "不舒服",
+      "感冒",
+      "頭痛",
+      "肚子痛",
+      "身體不好",
+      "不太行"
+    ],
+    "旅行": [
+      "出去玩",
+      "出門",
+      "旅遊",
+      "去哪玩",
+      "放假去"
+    ],
+    "吃": [
+      "吃飯",
+      "午餐",
+      "晚餐",
+      "早餐",
+      "美食",
+      "好吃",
+      "聚餐"
+    ],
+    "運動": [
+      "健身",
+      "跑步",
+      "爬山",
+      "游泳",
+      "打球",
+      "瑜伽"
+    ],
+    "睡覺": [
+      "睡",
+      "睡不著",
+      "失眠",
+      "想睡",
+      "熬夜",
+      "晚睡",
+      "補眠"
+    ],
+    "工作": [
+      "上班",
+      "下班",
+      "公司",
+      "辦公",
+      "專案",
+      "project"
+    ],
+    "學習": [
+      "讀書",
+      "看書",
+      "課程",
+      "教學",
+      "研究",
+      "study"
+    ],
+    "天氣": [
+      "下雨",
+      "好熱",
+      "好冷",
+      "颱風",
+      "晴天",
+      "陰天"
+    ]
+  },
+  "metadata": {
+    "last_rebuilt": "2026-03-26",
+    "total_entries": 79,
+    "cumulative_importance": 0
+  }
+}

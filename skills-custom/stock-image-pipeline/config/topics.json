@@ -1,0 +1,134 @@
+{
+    "canvas_types": {
+        "square": {
+            "initial": [768, 768],
+            "refined": [1280, 1280],
+            "final_4x": [5120, 5120],
+            "description": "方形畫布，適合抽象圖形、臉部特寫、對稱構圖"
+        },
+        "portrait": {
+            "initial": [768, 1280],
+            "refined": [900, 1400],
+            "final_4x": [3600, 5600],
+            "description": "直幅畫布，適合人像、生物、直立主體。人形必用此畫布避免肢體扭曲"
+        },
+        "landscape": {
+            "initial": [1280, 960],
+            "refined": [2560, 1920],
+            "final_4x": [10240, 7680],
+            "description": "橫幅畫布，適合場景、全景、非人形橫向構圖"
+        }
+    },
+
+    "upscale": {
+        "multiplier": 4,
+        "model": "4x-UltraSharp",
+        "fallback_model": "ESRGAN_4x",
+        "comment": "最終 Upscale 統一 4x，從精煉尺寸放大至商業級解析度"
+    },
+
+    "canvas_override_rules": [
+        {
+            "condition_keywords": ["human", "person", "figure", "portrait", "半身", "全身", "人物", "woman", "man", "girl", "boy"],
+            "force_canvas": "portrait",
+            "priority": "highest",
+            "reason": "人形使用直幅可大幅降低肢體扭曲"
+        },
+        {
+            "condition_keywords": ["face closeup", "headshot", "頭像", "臉部特寫"],
+            "force_canvas": "square",
+            "priority": "highest",
+            "reason": "臉部特寫用方形最佳"
+        }
+    ],
+
+    "topics": {
+        "tech-abstract": {
+            "display_name": "抽象科技概念",
+            "rotation_weight": 0.25,
+            "priority": 1,
+            "default_canvas": "square",
+            "alt_canvas": "landscape",
+            "canvas_note": "抽象圖形預設方形；大場景科技概念可用橫幅",
+            "base_cfg": 8,
+            "initial_steps": 22,
+            "refined_steps": 30,
+            "sampler": "euler_a",
+            "lora": "cyber_graphic",
+            "lora_weight": 0.7,
+            "negative_boost": ["blurry", "low quality", "text", "watermark"]
+        },
+        "eerie-scene": {
+            "display_name": "陰森場景風格",
+            "rotation_weight": 0.25,
+            "priority": 2,
+            "default_canvas": "landscape",
+            "alt_canvas": "portrait",
+            "canvas_note": "場景預設橫幅；走廊/樓梯等窄長場景可用直幅。含人物主體時切換 portrait",
+            "base_cfg": 7,
+            "initial_steps": 20,
+            "refined_steps": 28,
+            "sampler": "dpmpp_2m_karras",
+            "lora": "horror_creepy",
+            "lora_weight": 0.6,
+            "negative_boost": ["bright", "cheerful", "cartoon", "anime face"]
+        },
+        "creature-design": {
+            "display_name": "怪誕生物設計",
+            "rotation_weight": 0.25,
+            "priority": 3,
+            "default_canvas": "portrait",
+            "alt_canvas": "square",
+            "canvas_note": "生物預設直幅；頭部特寫/對稱構圖可用方形。避免 landscape（易肢體拉伸）",
+            "base_cfg": 9,
+            "initial_steps": 23,
+            "refined_steps": 35,
+            "sampler": "euler_a",
+            "lora": "creatures_design_v1",
+            "lora_weight": 0.8,
+            "negative_boost": ["human", "realistic photo", "simple background"]
+        },
+        "clawclaw-portrait": {
+            "display_name": "ClawClaw 個人風格肖像",
+            "rotation_weight": 0.25,
+            "priority": 4,
+            "default_canvas": "portrait",
+            "alt_canvas": "square",
+            "canvas_note": "肖像永遠使用 portrait 或 square，永不使用 landscape",
+            "base_cfg": 7,
+            "initial_steps": 22,
+            "refined_steps": 32,
+            "sampler": "dpmpp_2m_karras",
+            "lora": null,
+            "lora_weight": 0,
+            "lora_note": "不使用 LoRA，純靠 rinIllusion 基礎模型 + 精準提示詞塑造 ClawClaw 獨有風格",
+            "negative_boost": ["deformed face", "extra fingers", "bad anatomy", "blurry", "low quality", "asymmetric eyes", "cartoon", "anime"],
+            "style_keywords": ["cinematic lighting", "painterly", "soft focus background", "emotional expression", "detailed skin texture"],
+            "style_note": "ClawClaw 的個人風格定位：透過累積 insight 逐步發展獨有的肖像風格特徵"
+        }
+    },
+
+    "refinement": {
+        "initial_candidates": 5,
+        "refined_candidates": 5,
+        "denoise_range": [0.25, 0.30, 0.35, 0.40, 0.45],
+        "initial_min_score": 5.0,
+        "refined_min_score": 7.0,
+        "max_prompt_retries": 1,
+        "comment": "初步5張→自評→精煉5張→自評→4x Upscale"
+    },
+
+    "quality_thresholds": {
+        "pass": 8.5,
+        "retry": 7.0,
+        "discard_below": 7.0,
+        "comment": "pass: 直接通過上架, retry: 7.0-8.4 可修復則重試, discard: <7.0 直接丟棄"
+    },
+
+    "prompt_dedup": {
+        "history_days": 7,
+        "similarity_threshold": 0.85,
+        "history_file": "prompt_history.json",
+        "comment": "近 7 天內相似度 >85% 的提示詞會被重新生成"
+    }
+}

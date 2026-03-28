@@ -1,0 +1,11 @@
+{
+  "defaultAction": "shutdown",
+  "confirmationTimeout": 30,
+  "enableSmartSuggestions": true,
+  "safetyChecks": {
+    "checkUnsavedFiles": true,
+    "checkRunningServices": true,
+    "forceGitCommit": true,
+    "validateBackups": true
+  }
+}

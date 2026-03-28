@@ -1,0 +1,46 @@
+{
+    "date": "2026-03-27",
+    "theme": "eerie-scene",
+    "source_material": {
+        "file": "",
+        "title": ""
+    },
+    "images": [
+        {
+            "image_id": "brief-001",
+            "concept": null,
+            "mood_keywords": [],
+            "visual_direction": {
+                "composition": null,
+                "color_palette": null,
+                "lighting": null,
+                "canvas_type": "landscape",
+                "positive_prompt_hints": [],
+                "negative_prompt_hints": [],
+                "lora_weight_adjustment": null,
+                "defect_warnings": []
+            }
+        },
+        {
+            "image_id": "brief-002",
+            "concept": null,
+            "mood_keywords": [],
+            "visual_direction": {
+                "composition": null,
+                "color_palette": null,
+                "lighting": null,
+                "canvas_type": "landscape",
+                "positive_prompt_hints": [],
+                "negative_prompt_hints": [],
+                "lora_weight_adjustment": null,
+                "defect_warnings": []
+            }
+        }
+    ],
+    "discussion_log": null,
+    "total_discussion_time_sec": 0,
+    "openrouter_cost": 0,
+    "partial": false,
+    "fallback": true,
+    "fallback_reason": "主題 eerie-scene 素材庫為空，請 LXYA 補充"
+}

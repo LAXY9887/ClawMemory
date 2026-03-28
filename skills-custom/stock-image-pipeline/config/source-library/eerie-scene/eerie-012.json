@@ -1,0 +1,45 @@
+{
+  "id": "eerie-012",
+  "source_url": "https://creepypasta.fandom.com/wiki/The_Russian_Sleep_Experiment",
+  "source_title": "The Russian Sleep Experiment",
+  "captured_date": "2026-03-28",
+  "theme": "eerie-scene",
+  "core_concept": "被隔離的實驗室中，五名囚犯在極端條件下逐漸崩解的精神狀態",
+  "visual_elements": [
+    "密封實驗室的玻璃觀察窗",
+    "被撕碎的書籍與排泄物覆蓋的玻璃",
+    "持續低語的囚犯",
+    "氣體刺激劑的煙霧",
+    "氧氣監測儀器",
+    "緊張的監測室",
+    "微弱的燈光",
+    "被遺棄的臥鋪"
+  ],
+  "mood_keywords": [
+    "eerie",
+    "distorted",
+    "paranoia",
+    "desperation",
+    "isolation",
+    "madness",
+    "distress",
+    "uncanny"
+  ],
+  "color_palette_hint": [
+    "pale_blue",
+    "asphalt_black",
+    "blood_red",
+    "pale_yellow",
+    "gray_grey"
+  ],
+  "composition_hint": "以封閉實驗室為主體，囚犯與監測室形成對比構圖",
+  "potential_subjects": [
+    "囚犯在玻璃窗前低語",
+    "被污染的書籍與玻璃窗",
+    "監測室的儀器與陰影"
+  ],
+  "original_excerpt": "Russian researchers in the late 1940s kept five people awake for fifteen days using an experimental gas-based stimulant. They were kept in a sealed environment to carefully monitor their oxygen intake so the gas didn't kill them, since it was toxic in high concentrations. This was before closed circuit cameras, so they had only microphones and five-inch-thick glass porthole-sized windows into the chamber to monitor them. The chamber was stocked with books and cots to sleep on (but no bedding), a",
+  "quality_score": null,
+  "used_count": 0,
+  "last_used": null
+}
